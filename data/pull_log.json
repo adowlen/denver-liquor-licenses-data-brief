@@ -1,0 +1,22 @@
+{
+  "dataset": "ODC_BUSN_LIQUORLICENSES_P",
+  "layer_id_resolved": 27,
+  "service_url": "https://services1.arcgis.com/zdB7qR0BtYrg0Xpl/ArcGIS/rest/services/ODC_BUSN_LIQUORLICENSES_P/FeatureServer/27",
+  "total_records": 2215,
+  "pulled_records": 2215,
+  "status_counter_local": [
+    [
+      "LICENSE ISSUED - ACTIVE",
+      1965
+    ],
+    [
+      "PENDING",
+      157
+    ],
+    [
+      "DELINQUENT",
+      93
+    ]
+  ],
+  "service_last_edit_ms": 1792755004096
+}

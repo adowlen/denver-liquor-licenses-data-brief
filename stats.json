@@ -1,0 +1,535 @@
+{
+  "source_pull_date": "2026-10-23",
+  "source_dataset": "ODC_BUSN_LIQUORLICENSES_P (Denver Open Data, ArcGIS FeatureServer layer 27)",
+  "total_records": 2215,
+  "status_counter": {
+    "LICENSE ISSUED - ACTIVE": 1965,
+    "PENDING": 157,
+    "DELINQUENT": 93
+  },
+  "active_licenses": 1965,
+  "active_with_neighborhood": 1938,
+  "active_without_neighborhood": 27,
+  "active_placeholder_coords": 27,
+  "class_counter_all": {
+    "LIQUOR - HOTEL AND RESTAURANT": 825,
+    "LIQUOR - HOTEL AND RESTAURANT AND CABARET": 230,
+    "LIQUOR - FERMENTED MALT BEVERAGE": 217,
+    "LIQUOR - STORE": 197,
+    "LIQUOR - TAVERN AND CABARET": 181,
+    "LIQUOR - TAVERN": 150,
+    "LIQUOR - BEER & WINE": 101,
+    "LIQUOR - SPECIAL EVENTS": 88,
+    "LIQUOR - TASTINGS": 36,
+    "LIQUOR - ENTERTAINMENT": 36,
+    "LIQUOR - BREW PUB": 25,
+    "LIQUOR - CLUB": 18,
+    "LIQUOR - LODGING": 16,
+    "LIQUOR - ARTS": 13,
+    "LIQUOR - ART GALLERY PERMIT": 12,
+    "LIQUOR - BREW PUB AND CABARET": 12,
+    "LIQUOR - ENTERTAINMENT AND CABARET": 8,
+    "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES AND CABARET": 7,
+    "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES": 6,
+    "LIQUOR - BEER & WINE AND CABARET": 5,
+    "LIQUOR - DRUG STORE": 4,
+    "LIQUOR - LODGING AND ENTERTAINMENT": 4,
+    "LIQUOR - BED & BREAKFAST": 4,
+    "COMBINED LIQUOR - TRANSFER LOCATION": 3,
+    "LIQUOR - LODGING AND ENTERTAINMENT AND CABARET": 3,
+    "LIQUOR - 3.2% BEER": 3,
+    "LIQUOR - VINTNER'S RESTAURANT": 2,
+    "LIQUOR - EXPANDED ALCOHOL BEVERAGE PERMIT": 2,
+    "LIQUOR - LODGING AND CABARET": 1,
+    "LIQUOR - CAMPUS LIQUOR COMPLEX AND CABARET": 1,
+    "LIQUOR - ART GALLERY": 1,
+    "LIQUOR - VINTNER'S RESTAURANT AND CABARET": 1,
+    "LIQUOR - ": 1,
+    "LIQUOR - DISTILLERY PUB": 1,
+    "LIQUOR - CAMPUS LIQUOR COMPLEX": 1
+  },
+  "class_counter_active": {
+    "LIQUOR - HOTEL AND RESTAURANT": 739,
+    "LIQUOR - HOTEL AND RESTAURANT AND CABARET": 211,
+    "LIQUOR - FERMENTED MALT BEVERAGE": 201,
+    "LIQUOR - STORE": 192,
+    "LIQUOR - TAVERN AND CABARET": 165,
+    "LIQUOR - TAVERN": 129,
+    "LIQUOR - BEER & WINE": 93,
+    "LIQUOR - SPECIAL EVENTS": 35,
+    "LIQUOR - TASTINGS": 32,
+    "LIQUOR - ENTERTAINMENT": 27,
+    "LIQUOR - BREW PUB": 24,
+    "LIQUOR - CLUB": 17,
+    "LIQUOR - LODGING": 16,
+    "LIQUOR - ARTS": 12,
+    "LIQUOR - BREW PUB AND CABARET": 12,
+    "LIQUOR - ART GALLERY PERMIT": 9,
+    "LIQUOR - ENTERTAINMENT AND CABARET": 8,
+    "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES AND CABARET": 7,
+    "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES": 6,
+    "LIQUOR - BEER & WINE AND CABARET": 5,
+    "LIQUOR - DRUG STORE": 4,
+    "LIQUOR - LODGING AND ENTERTAINMENT": 4,
+    "LIQUOR - BED & BREAKFAST": 4,
+    "LIQUOR - LODGING AND ENTERTAINMENT AND CABARET": 3,
+    "LIQUOR - 3.2% BEER": 3,
+    "LIQUOR - VINTNER'S RESTAURANT": 2,
+    "LIQUOR - LODGING AND CABARET": 1,
+    "LIQUOR - CAMPUS LIQUOR COMPLEX AND CABARET": 1,
+    "LIQUOR - ART GALLERY": 1,
+    "LIQUOR - VINTNER'S RESTAURANT AND CABARET": 1,
+    "LIQUOR - CAMPUS LIQUOR COMPLEX": 1
+  },
+  "class_groups_active": {
+    "on_premises": 1498,
+    "off_premises_retail": 400,
+    "event_addon_admin": 67
+  },
+  "class_group_mapping": {
+    "on_premises": [
+      "LIQUOR - ART GALLERY",
+      "LIQUOR - ART GALLERY PERMIT",
+      "LIQUOR - ARTS",
+      "LIQUOR - BED & BREAKFAST",
+      "LIQUOR - BEER & WINE",
+      "LIQUOR - BEER & WINE AND CABARET",
+      "LIQUOR - BREW PUB",
+      "LIQUOR - BREW PUB AND CABARET",
+      "LIQUOR - CAMPUS LIQUOR COMPLEX",
+      "LIQUOR - CAMPUS LIQUOR COMPLEX AND CABARET",
+      "LIQUOR - CLUB",
+      "LIQUOR - DISTILLERY PUB",
+      "LIQUOR - ENTERTAINMENT",
+      "LIQUOR - ENTERTAINMENT AND CABARET",
+      "LIQUOR - HOTEL AND RESTAURANT",
+      "LIQUOR - HOTEL AND RESTAURANT AND CABARET",
+      "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES",
+      "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES AND CABARET",
+      "LIQUOR - LODGING",
+      "LIQUOR - LODGING AND CABARET",
+      "LIQUOR - LODGING AND ENTERTAINMENT",
+      "LIQUOR - LODGING AND ENTERTAINMENT AND CABARET",
+      "LIQUOR - TAVERN",
+      "LIQUOR - TAVERN AND CABARET",
+      "LIQUOR - VINTNER'S RESTAURANT",
+      "LIQUOR - VINTNER'S RESTAURANT AND CABARET"
+    ],
+    "off_premises_retail": [
+      "LIQUOR - 3.2% BEER",
+      "LIQUOR - DRUG STORE",
+      "LIQUOR - FERMENTED MALT BEVERAGE",
+      "LIQUOR - STORE"
+    ],
+    "event_addon_admin": "all remaining classes as filed"
+  },
+  "hotel_restaurant_family_active": 963,
+  "neighborhood_control": {
+    "source_vs_spatial_agree": 2158,
+    "source_vs_spatial_disagree": 0,
+    "disagreements": []
+  },
+  "allocated_population": 718458.0999999999,
+  "citywide_active_per_1000_residents": 2.7,
+  "concentration": {
+    "top5_count_share_pct": 28.2,
+    "top5_population_share_pct": 7.4,
+    "top10_count_share_pct": 43.4,
+    "top10_population_share_pct": 18.3,
+    "neighborhoods_with_zero_active": 1,
+    "median_active_per_neighborhood": 17.5,
+    "neighborhoods_at_or_below_5_active": 12
+  },
+  "gini_neighborhood_counts": 0.5,
+  "top_by_count": [
+    [
+      "Five Points",
+      174,
+      23697.9,
+      174.0
+    ],
+    [
+      "Union Station",
+      118,
+      9919.6,
+      118.0
+    ],
+    [
+      "Highland",
+      96,
+      11207.5,
+      96.0
+    ],
+    [
+      "CBD",
+      91,
+      4389.8,
+      91.0
+    ],
+    [
+      "DIA",
+      75,
+      4006.6,
+      75.0
+    ],
+    [
+      "Central Park",
+      68,
+      32801.8,
+      68.0
+    ],
+    [
+      "Speer",
+      67,
+      12967.6,
+      67.0
+    ],
+    [
+      "Capitol Hill",
+      58,
+      16210.1,
+      58.0
+    ],
+    [
+      "Cherry Creek",
+      56,
+      7039.5,
+      56.0
+    ],
+    [
+      "Berkeley",
+      50,
+      9156.0,
+      50.0
+    ]
+  ],
+  "top_by_per_1000_residents": [
+    [
+      "CBD",
+      91,
+      4389.8,
+      20.73
+    ],
+    [
+      "DIA",
+      75,
+      4006.6,
+      18.72
+    ],
+    [
+      "Union Station",
+      118,
+      9919.6,
+      11.9
+    ],
+    [
+      "Auraria",
+      7,
+      705.0,
+      9.93
+    ],
+    [
+      "Sun Valley",
+      11,
+      1200.8,
+      9.16
+    ],
+    [
+      "Highland",
+      96,
+      11207.5,
+      8.57
+    ],
+    [
+      "Cherry Creek",
+      56,
+      7039.5,
+      7.96
+    ],
+    [
+      "Five Points",
+      174,
+      23697.9,
+      7.34
+    ],
+    [
+      "Civic Center",
+      31,
+      4288.5,
+      7.23
+    ],
+    [
+      "Baker",
+      41,
+      6612.3,
+      6.2
+    ]
+  ],
+  "top_by_per_sq_mi": [
+    [
+      "Union Station",
+      118,
+      9919.6,
+      269.41
+    ],
+    [
+      "CBD",
+      91,
+      4389.8,
+      211.14
+    ],
+    [
+      "North Capitol Hill",
+      36,
+      7951.6,
+      102.27
+    ],
+    [
+      "Civic Center",
+      31,
+      4288.5,
+      101.97
+    ],
+    [
+      "Five Points",
+      174,
+      23697.9,
+      99.03
+    ],
+    [
+      "Capitol Hill",
+      58,
+      16210.1,
+      85.8
+    ],
+    [
+      "Highland",
+      96,
+      11207.5,
+      83.33
+    ],
+    [
+      "Speer",
+      67,
+      12967.6,
+      78.55
+    ],
+    [
+      "Cherry Creek",
+      56,
+      7039.5,
+      66.99
+    ],
+    [
+      "City Park West",
+      35,
+      5779.6,
+      65.42
+    ]
+  ],
+  "bottom_by_per_1000_residents": [
+    [
+      "Indian Creek",
+      0,
+      4234.2,
+      0.0
+    ],
+    [
+      "Barnum West",
+      1,
+      4870.9,
+      0.21
+    ],
+    [
+      "Fort Logan",
+      2,
+      9187.9,
+      0.22
+    ],
+    [
+      "Wellshire",
+      1,
+      3073.1,
+      0.33
+    ],
+    [
+      "Hilltop",
+      3,
+      8512.4,
+      0.35
+    ],
+    [
+      "Windsor",
+      5,
+      14017.0,
+      0.36
+    ],
+    [
+      "Harvey Park South",
+      4,
+      8837.6,
+      0.45
+    ],
+    [
+      "Montbello",
+      18,
+      32411.2,
+      0.56
+    ]
+  ],
+  "council_district_active": {
+    "10": 412,
+    "9": 267,
+    "1": 253,
+    "7": 231,
+    "5": 157,
+    "3": 128,
+    "8": 120,
+    "11": 115,
+    "4": 104,
+    "6": 85,
+    "2": 66,
+    "0": 27
+  },
+  "council_district_zero_records": 27,
+  "district_zero_all_unlocated": true,
+  "median_per_1000_residents": 2.07,
+  "low_count_group": {
+    "neighborhoods_at_or_below_5_active": 12,
+    "their_active_licenses": 41,
+    "their_population_share_pct": 11.0
+  },
+  "group_shares_active_pct": {
+    "on_premises": 76.2,
+    "off_premises_retail": 20.4,
+    "event_addon_admin": 3.4
+  },
+  "five_points_share_pct": 8.9,
+  "fusion_crime": {
+    "spearman_all_neighborhoods": 0.696,
+    "spearman_pop_ge_1000": 0.685,
+    "n_neighborhoods": 77,
+    "top_quartile_both": [
+      "Baker",
+      "CBD",
+      "Capitol Hill",
+      "City Park West",
+      "Civic Center",
+      "DIA",
+      "Elyria Swansea",
+      "Five Points",
+      "Lincoln Park",
+      "North Capitol Hill",
+      "Overland",
+      "Sun Valley",
+      "Union Station"
+    ],
+    "license_rate_vs_unit_rate_rank_corr": 0.966
+  },
+  "top10_by_count": [
+    [
+      "Five Points",
+      174,
+      8.85
+    ],
+    [
+      "Union Station",
+      118,
+      6.01
+    ],
+    [
+      "Highland",
+      96,
+      4.89
+    ],
+    [
+      "CBD",
+      91,
+      4.63
+    ],
+    [
+      "DIA",
+      75,
+      3.82
+    ],
+    [
+      "Central Park",
+      68,
+      3.46
+    ],
+    [
+      "Speer",
+      67,
+      3.41
+    ],
+    [
+      "Capitol Hill",
+      58,
+      2.95
+    ],
+    [
+      "Cherry Creek",
+      56,
+      2.85
+    ],
+    [
+      "Berkeley",
+      50,
+      2.54
+    ]
+  ],
+  "offense_reports_2026_window_total": 48268,
+  "citywide_offenses_per_1000_residents_2026_window": 67.2,
+  "named_neighborhood_splits": {
+    "Five Points": {
+      "active": 174,
+      "on_premises": 152,
+      "off_premises_retail": 19,
+      "offenses_per_1000_residents": 161.58
+    },
+    "Union Station": {
+      "active": 118,
+      "on_premises": 114,
+      "off_premises_retail": 4,
+      "offenses_per_1000_residents": 155.95
+    },
+    "Highland": {
+      "active": 96,
+      "on_premises": 86,
+      "off_premises_retail": 10,
+      "offenses_per_1000_residents": 61.92
+    },
+    "CBD": {
+      "active": 91,
+      "on_premises": 85,
+      "off_premises_retail": 4,
+      "offenses_per_1000_residents": 327.35
+    },
+    "DIA": {
+      "active": 75,
+      "on_premises": 67,
+      "off_premises_retail": 8,
+      "offenses_per_1000_residents": 429.54
+    },
+    "Cherry Creek": {
+      "active": 56,
+      "on_premises": 52,
+      "off_premises_retail": 3,
+      "offenses_per_1000_residents": 86.37
+    },
+    "Montbello": {
+      "active": 18,
+      "on_premises": 9,
+      "off_premises_retail": 9,
+      "offenses_per_1000_residents": 31.19
+    }
+  },
+  "issue_date_record": {
+    "active_with_issue_date": 1965,
+    "min_year": 2012,
+    "max_year": 2026,
+    "issued_2020_or_later": 619,
+    "issued_2020_or_later_pct": 31.5,
+    "bulk_load_2013_2014_all_statuses": 960
+  }
+}

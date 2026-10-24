@@ -1,0 +1,30 @@
+{
+  "tracts": 178,
+  "county_population_tract_sum": 718877.0,
+  "allocated_population": 718458.4,
+  "allocated_share_pct": 99.94,
+  "neighborhoods": 78,
+  "neighborhoods_missing_slug": 0,
+  "smallest_population_neighborhoods": [
+    [
+      "Auraria",
+      705.0
+    ],
+    [
+      "Sun Valley",
+      1200.8
+    ],
+    [
+      "Rosedale",
+      2668.7
+    ],
+    [
+      "Wellshire",
+      3073.1
+    ],
+    [
+      "Skyland",
+      3224.0
+    ]
+  ]
+}

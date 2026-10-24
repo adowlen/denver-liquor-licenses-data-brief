@@ -1,0 +1,12 @@
+PARTITION total=2215 status={'LICENSE ISSUED - ACTIVE': 1965, 'PENDING': 157, 'DELINQUENT': 93} server_counter==local_counter PASS
+COUNTERS LICENSES: 35 unique values sum=2215; NEIGHBORHOOD: 77 values + 57 blank = 2215 PASS
+SENTINEL placeholder coords: 56 rows at 4 fixed points [((-115.431114044338, 34.641226522314), 35), ((-115.500478183879, 34.9105855999308), 19)]; active among them=27; none carries a source neighborhood; none is spatially assigned PASS
+SENTINEL council_district '0': 27 records, exactly the unlocated active records; excluded from every district statement PASS
+PANEL 78 neighborhoods; counts sum=1938 = active with neighborhood; +27 unassigned = 1965 active; printed shares use the full 1,965 denominator (assigned share total 98.6%) PASS
+DENOMINATOR allocated population=718,458 = 99.94% of ACS 2024 5-year tract sum 718,877 (Denver County); rates divide licenses by residents (or by housing units where labeled) PASS
+CITYWIDE RATE 1000*1938/718,458 = 2.70 per 1,000 residents PASS
+CLASS GROUPS on-premises=1498 off-premises=400 event/add-on/admin=67 sum=1965; classes falling to event/add-on/admin: ['LIQUOR - SPECIAL EVENTS', 'LIQUOR - TASTINGS'] PASS
+CONTROL source NEIGHBORHOOD vs point-in-polygon: agree 2158, disagree 0 (of rows carrying both) PASS
+SERVER CROSS-CHECK active-by-neighborhood: server groupBy == panel for all 78 neighborhoods PASS
+SMALL NUMBERS top-rate rows all carry count + population; sub-5,000-resident neighborhoods are flagged in the brief PASS
+AUDIT PASSED

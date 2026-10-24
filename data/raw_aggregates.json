@@ -1,0 +1,967 @@
+{
+  "layer_id": 27,
+  "service_last_edit_ms": 1792755004096,
+  "total_records": 2215,
+  "pulled_records": 2215,
+  "status_counter": [
+    [
+      "LICENSE ISSUED - ACTIVE",
+      1965
+    ],
+    [
+      "PENDING",
+      157
+    ],
+    [
+      "DELINQUENT",
+      93
+    ]
+  ],
+  "license_class_counter": [
+    [
+      "LIQUOR - HOTEL AND RESTAURANT",
+      825
+    ],
+    [
+      "LIQUOR - HOTEL AND RESTAURANT AND CABARET",
+      230
+    ],
+    [
+      "LIQUOR - FERMENTED MALT BEVERAGE",
+      217
+    ],
+    [
+      "LIQUOR - STORE",
+      197
+    ],
+    [
+      "LIQUOR - TAVERN AND CABARET",
+      181
+    ],
+    [
+      "LIQUOR - TAVERN",
+      150
+    ],
+    [
+      "LIQUOR - BEER & WINE",
+      101
+    ],
+    [
+      "LIQUOR - SPECIAL EVENTS",
+      88
+    ],
+    [
+      "LIQUOR - ENTERTAINMENT",
+      36
+    ],
+    [
+      "LIQUOR - TASTINGS",
+      36
+    ],
+    [
+      "LIQUOR - BREW PUB",
+      25
+    ],
+    [
+      "LIQUOR - CLUB",
+      18
+    ],
+    [
+      "LIQUOR - LODGING",
+      16
+    ],
+    [
+      "LIQUOR - ARTS",
+      13
+    ],
+    [
+      "LIQUOR - ART GALLERY PERMIT",
+      12
+    ],
+    [
+      "LIQUOR - BREW PUB AND CABARET",
+      12
+    ],
+    [
+      "LIQUOR - ENTERTAINMENT AND CABARET",
+      8
+    ],
+    [
+      "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES AND CABARET",
+      7
+    ],
+    [
+      "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES",
+      6
+    ],
+    [
+      "LIQUOR - BEER & WINE AND CABARET",
+      5
+    ],
+    [
+      "LIQUOR - BED & BREAKFAST",
+      4
+    ],
+    [
+      "LIQUOR - DRUG STORE",
+      4
+    ],
+    [
+      "LIQUOR - LODGING AND ENTERTAINMENT",
+      4
+    ],
+    [
+      "COMBINED LIQUOR - TRANSFER LOCATION",
+      3
+    ],
+    [
+      "LIQUOR - 3.2% BEER",
+      3
+    ],
+    [
+      "LIQUOR - LODGING AND ENTERTAINMENT AND CABARET",
+      3
+    ],
+    [
+      "LIQUOR - EXPANDED ALCOHOL BEVERAGE PERMIT",
+      2
+    ],
+    [
+      "LIQUOR - VINTNER'S RESTAURANT",
+      2
+    ],
+    [
+      "LIQUOR - ",
+      1
+    ],
+    [
+      "LIQUOR - ART GALLERY",
+      1
+    ],
+    [
+      "LIQUOR - CAMPUS LIQUOR COMPLEX",
+      1
+    ],
+    [
+      "LIQUOR - CAMPUS LIQUOR COMPLEX AND CABARET",
+      1
+    ],
+    [
+      "LIQUOR - DISTILLERY PUB",
+      1
+    ],
+    [
+      "LIQUOR - LODGING AND CABARET",
+      1
+    ],
+    [
+      "LIQUOR - VINTNER'S RESTAURANT AND CABARET",
+      1
+    ]
+  ],
+  "neighborhood_counter_all": [
+    [
+      "Five Points",
+      199
+    ],
+    [
+      "Union Station",
+      137
+    ],
+    [
+      "Highland",
+      101
+    ],
+    [
+      "CBD",
+      99
+    ],
+    [
+      "DIA",
+      81
+    ],
+    [
+      "Central Park",
+      75
+    ],
+    [
+      "Speer",
+      71
+    ],
+    [
+      "Capitol Hill",
+      64
+    ],
+    [
+      "Cherry Creek",
+      63
+    ],
+    [
+      "",
+      57
+    ],
+    [
+      "Berkeley",
+      56
+    ],
+    [
+      "Baker",
+      45
+    ],
+    [
+      "Platt Park",
+      43
+    ],
+    [
+      "West Highland",
+      41
+    ],
+    [
+      "Lincoln Park",
+      40
+    ],
+    [
+      "City Park West",
+      38
+    ],
+    [
+      "Gateway - Green Valley Ranch",
+      38
+    ],
+    [
+      "North Capitol Hill",
+      37
+    ],
+    [
+      "Civic Center",
+      36
+    ],
+    [
+      "Hale",
+      32
+    ],
+    [
+      "Congress Park",
+      31
+    ],
+    [
+      "Hampden South",
+      31
+    ],
+    [
+      "Hampden",
+      27
+    ],
+    [
+      "Sunnyside",
+      27
+    ],
+    [
+      "University",
+      27
+    ],
+    [
+      "Washington Virginia Vale",
+      27
+    ],
+    [
+      "Westwood",
+      27
+    ],
+    [
+      "Elyria Swansea",
+      25
+    ],
+    [
+      "Jefferson Park",
+      23
+    ],
+    [
+      "Lowry Field",
+      23
+    ],
+    [
+      "Overland",
+      23
+    ],
+    [
+      "West Colfax",
+      23
+    ],
+    [
+      "Montclair",
+      22
+    ],
+    [
+      "South Park Hill",
+      22
+    ],
+    [
+      "Washington Park West",
+      22
+    ],
+    [
+      "Athmar Park",
+      21
+    ],
+    [
+      "Montbello",
+      21
+    ],
+    [
+      "Southmoor Park",
+      21
+    ],
+    [
+      "Cheesman Park",
+      20
+    ],
+    [
+      "City Park",
+      20
+    ],
+    [
+      "East Colfax",
+      20
+    ],
+    [
+      "Marston",
+      20
+    ],
+    [
+      "Virginia Village",
+      19
+    ],
+    [
+      "College View - South Platte",
+      18
+    ],
+    [
+      "Globeville",
+      17
+    ],
+    [
+      "University Hills",
+      17
+    ],
+    [
+      "Mar Lee",
+      16
+    ],
+    [
+      "Cole",
+      15
+    ],
+    [
+      "Harvey Park",
+      15
+    ],
+    [
+      "Northeast Park Hill",
+      15
+    ],
+    [
+      "Washington Park",
+      15
+    ],
+    [
+      "University Park",
+      12
+    ],
+    [
+      "Goldsmith",
+      11
+    ],
+    [
+      "Sun Valley",
+      11
+    ],
+    [
+      "Clayton",
+      10
+    ],
+    [
+      "Sloan Lake",
+      10
+    ],
+    [
+      "Auraria",
+      9
+    ],
+    [
+      "Barnum",
+      9
+    ],
+    [
+      "Cory - Merrill",
+      9
+    ],
+    [
+      "Regis",
+      9
+    ],
+    [
+      "Rosedale",
+      9
+    ],
+    [
+      "Valverde",
+      9
+    ],
+    [
+      "Villa Park",
+      8
+    ],
+    [
+      "Bear Valley",
+      7
+    ],
+    [
+      "Country Club",
+      7
+    ],
+    [
+      "North Park Hill",
+      7
+    ],
+    [
+      "Ruby Hill",
+      7
+    ],
+    [
+      "Windsor",
+      7
+    ],
+    [
+      "Belcaro",
+      6
+    ],
+    [
+      "Chaffee Park",
+      6
+    ],
+    [
+      "Skyland",
+      6
+    ],
+    [
+      "Whittier",
+      6
+    ],
+    [
+      "Kennedy",
+      5
+    ],
+    [
+      "Harvey Park South",
+      4
+    ],
+    [
+      "Hilltop",
+      4
+    ],
+    [
+      "Fort Logan",
+      2
+    ],
+    [
+      "Barnum West",
+      1
+    ],
+    [
+      "Wellshire",
+      1
+    ]
+  ],
+  "active_count": 1965,
+  "active_by_neighborhood": [
+    [
+      "Five Points",
+      174
+    ],
+    [
+      "Union Station",
+      118
+    ],
+    [
+      "Highland",
+      96
+    ],
+    [
+      "CBD",
+      91
+    ],
+    [
+      "DIA",
+      75
+    ],
+    [
+      "Central Park",
+      68
+    ],
+    [
+      "Speer",
+      67
+    ],
+    [
+      "Capitol Hill",
+      58
+    ],
+    [
+      "Cherry Creek",
+      56
+    ],
+    [
+      "Berkeley",
+      50
+    ],
+    [
+      "Baker",
+      41
+    ],
+    [
+      "Gateway - Green Valley Ranch",
+      37
+    ],
+    [
+      "North Capitol Hill",
+      36
+    ],
+    [
+      "Platt Park",
+      36
+    ],
+    [
+      "City Park West",
+      35
+    ],
+    [
+      "West Highland",
+      34
+    ],
+    [
+      "Civic Center",
+      31
+    ],
+    [
+      "Lincoln Park",
+      30
+    ],
+    [
+      "Congress Park",
+      29
+    ],
+    [
+      "Hampden South",
+      28
+    ],
+    [
+      "",
+      27
+    ],
+    [
+      "Hale",
+      26
+    ],
+    [
+      "Sunnyside",
+      26
+    ],
+    [
+      "University",
+      25
+    ],
+    [
+      "Hampden",
+      24
+    ],
+    [
+      "Washington Virginia Vale",
+      24
+    ],
+    [
+      "Westwood",
+      24
+    ],
+    [
+      "Elyria Swansea",
+      23
+    ],
+    [
+      "Jefferson Park",
+      22
+    ],
+    [
+      "Athmar Park",
+      21
+    ],
+    [
+      "Lowry Field",
+      21
+    ],
+    [
+      "Montclair",
+      21
+    ],
+    [
+      "West Colfax",
+      21
+    ],
+    [
+      "City Park",
+      20
+    ],
+    [
+      "Marston",
+      20
+    ],
+    [
+      "Washington Park West",
+      20
+    ],
+    [
+      "South Park Hill",
+      19
+    ],
+    [
+      "Montbello",
+      18
+    ],
+    [
+      "Southmoor Park",
+      18
+    ],
+    [
+      "Virginia Village",
+      18
+    ],
+    [
+      "Overland",
+      17
+    ],
+    [
+      "University Hills",
+      17
+    ],
+    [
+      "College View - South Platte",
+      16
+    ],
+    [
+      "East Colfax",
+      16
+    ],
+    [
+      "Mar Lee",
+      16
+    ],
+    [
+      "Cheesman Park",
+      15
+    ],
+    [
+      "Globeville",
+      15
+    ],
+    [
+      "Cole",
+      14
+    ],
+    [
+      "Northeast Park Hill",
+      14
+    ],
+    [
+      "Harvey Park",
+      13
+    ],
+    [
+      "Washington Park",
+      12
+    ],
+    [
+      "Goldsmith",
+      11
+    ],
+    [
+      "Sun Valley",
+      11
+    ],
+    [
+      "University Park",
+      11
+    ],
+    [
+      "Clayton",
+      9
+    ],
+    [
+      "Cory - Merrill",
+      9
+    ],
+    [
+      "Sloan Lake",
+      9
+    ],
+    [
+      "Barnum",
+      8
+    ],
+    [
+      "Regis",
+      8
+    ],
+    [
+      "Rosedale",
+      8
+    ],
+    [
+      "Valverde",
+      8
+    ],
+    [
+      "Auraria",
+      7
+    ],
+    [
+      "North Park Hill",
+      7
+    ],
+    [
+      "Villa Park",
+      7
+    ],
+    [
+      "Bear Valley",
+      6
+    ],
+    [
+      "Country Club",
+      6
+    ],
+    [
+      "Whittier",
+      6
+    ],
+    [
+      "Belcaro",
+      5
+    ],
+    [
+      "Chaffee Park",
+      5
+    ],
+    [
+      "Kennedy",
+      5
+    ],
+    [
+      "Ruby Hill",
+      5
+    ],
+    [
+      "Skyland",
+      5
+    ],
+    [
+      "Windsor",
+      5
+    ],
+    [
+      "Harvey Park South",
+      4
+    ],
+    [
+      "Hilltop",
+      3
+    ],
+    [
+      "Fort Logan",
+      2
+    ],
+    [
+      "Barnum West",
+      1
+    ],
+    [
+      "Wellshire",
+      1
+    ]
+  ],
+  "active_by_class": [
+    [
+      "LIQUOR - HOTEL AND RESTAURANT",
+      739
+    ],
+    [
+      "LIQUOR - HOTEL AND RESTAURANT AND CABARET",
+      211
+    ],
+    [
+      "LIQUOR - FERMENTED MALT BEVERAGE",
+      201
+    ],
+    [
+      "LIQUOR - STORE",
+      192
+    ],
+    [
+      "LIQUOR - TAVERN AND CABARET",
+      165
+    ],
+    [
+      "LIQUOR - TAVERN",
+      129
+    ],
+    [
+      "LIQUOR - BEER & WINE",
+      93
+    ],
+    [
+      "LIQUOR - SPECIAL EVENTS",
+      35
+    ],
+    [
+      "LIQUOR - TASTINGS",
+      32
+    ],
+    [
+      "LIQUOR - ENTERTAINMENT",
+      27
+    ],
+    [
+      "LIQUOR - BREW PUB",
+      24
+    ],
+    [
+      "LIQUOR - CLUB",
+      17
+    ],
+    [
+      "LIQUOR - LODGING",
+      16
+    ],
+    [
+      "LIQUOR - ARTS",
+      12
+    ],
+    [
+      "LIQUOR - BREW PUB AND CABARET",
+      12
+    ],
+    [
+      "LIQUOR - ART GALLERY PERMIT",
+      9
+    ],
+    [
+      "LIQUOR - ENTERTAINMENT AND CABARET",
+      8
+    ],
+    [
+      "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES AND CABARET",
+      7
+    ],
+    [
+      "LIQUOR - HOTEL AND RESTAURANT WITH OPTIONAL PREMISES",
+      6
+    ],
+    [
+      "LIQUOR - BEER & WINE AND CABARET",
+      5
+    ],
+    [
+      "LIQUOR - BED & BREAKFAST",
+      4
+    ],
+    [
+      "LIQUOR - DRUG STORE",
+      4
+    ],
+    [
+      "LIQUOR - LODGING AND ENTERTAINMENT",
+      4
+    ],
+    [
+      "LIQUOR - 3.2% BEER",
+      3
+    ],
+    [
+      "LIQUOR - LODGING AND ENTERTAINMENT AND CABARET",
+      3
+    ],
+    [
+      "LIQUOR - VINTNER'S RESTAURANT",
+      2
+    ],
+    [
+      "LIQUOR - ART GALLERY",
+      1
+    ],
+    [
+      "LIQUOR - CAMPUS LIQUOR COMPLEX",
+      1
+    ],
+    [
+      "LIQUOR - CAMPUS LIQUOR COMPLEX AND CABARET",
+      1
+    ],
+    [
+      "LIQUOR - LODGING AND CABARET",
+      1
+    ],
+    [
+      "LIQUOR - VINTNER'S RESTAURANT AND CABARET",
+      1
+    ]
+  ],
+  "active_by_council_dist": [
+    [
+      "10",
+      412
+    ],
+    [
+      "9",
+      267
+    ],
+    [
+      "1",
+      253
+    ],
+    [
+      "7",
+      231
+    ],
+    [
+      "5",
+      157
+    ],
+    [
+      "3",
+      128
+    ],
+    [
+      "8",
+      120
+    ],
+    [
+      "11",
+      115
+    ],
+    [
+      "4",
+      104
+    ],
+    [
+      "6",
+      85
+    ],
+    [
+      "2",
+      66
+    ],
+    [
+      "0",
+      27
+    ]
+  ]
+}

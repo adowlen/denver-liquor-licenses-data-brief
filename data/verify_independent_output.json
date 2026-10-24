@@ -1,0 +1,50 @@
+{
+  "live_status_counter": {
+    "DELINQUENT": 93,
+    "LICENSE ISSUED - ACTIVE": 1965,
+    "PENDING": 157
+  },
+  "status_matches_stats": true,
+  "live_total": 2215,
+  "recount_total": 2215,
+  "recount_active": 1965,
+  "recount_active_with_source_neighborhood": 1938,
+  "recount_top5_by_count": [
+    [
+      "Five Points",
+      174
+    ],
+    [
+      "Union Station",
+      118
+    ],
+    [
+      "Highland",
+      96
+    ],
+    [
+      "CBD",
+      91
+    ],
+    [
+      "DIA",
+      75
+    ]
+  ],
+  "recount_groups": {
+    "on": 1498,
+    "off": 400,
+    "other": 67
+  },
+  "recount_hotel_restaurant_family": 963,
+  "live_vs_recount_nbhd_diffs": {},
+  "citywide_rate_recomputed": 2.7,
+  "cbd_rate_recomputed": 20.73,
+  "top5_share_recomputed": 28.2,
+  "top5_pop_share_recomputed": 7.4,
+  "median_rate_recomputed": 2.07,
+  "gini_recomputed": 0.5,
+  "spearman_pop_ge_1000_recomputed": 0.685,
+  "census_reporter_county_population": 718877.0,
+  "tract_sum_from_build_log": 718877.0
+}
